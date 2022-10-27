@@ -10,7 +10,7 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 ## Socials and Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-Ahmed%20Hersi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/ahmed-hersi-162840230)](https://www.linkedin.com/mwlite/in/ahmed-hersi-162840230)
-[![Medium Badge](https://img.shields.io/badge/Ahmed%20Hersi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
+[![Medium Badge](https://img.shields.io/badge/Ahmed%20Hersi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmed_24967)](https://medium.com/@ahmed_24967)
 [![Gmail Badge](https://img.shields.io/badge/-ahmeds@hersi.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmeds@hersi.ca)](mailto:ahmeds@hersi.ca)
 
 ## ⚡ Technologies
